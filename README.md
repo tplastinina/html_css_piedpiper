@@ -20,5 +20,8 @@ Technologies Used
 HTML5: For the structure and content of the webpage.
 CSS3: For layout and styling, including flexbox, background images, and responsive design elements.
 ![image](https://github.com/user-attachments/assets/899dfd64-a8ac-4806-bf3a-f463fb41d54f)
+![image](https://github.com/user-attachments/assets/cb123156-2b2f-40ea-a35b-1fff051a569d)
+![image](https://github.com/user-attachments/assets/e7cfe0b6-9a27-4228-81f7-8bd7b8a6518c)
+![image](https://github.com/user-attachments/assets/7438667c-9d19-4ecd-b8bf-4c973bcc7782)
 ![image](https://github.com/user-attachments/assets/bf688a43-63f1-4f94-a94a-6b20fa9ae4a7)
 
